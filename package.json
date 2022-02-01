@@ -26,5 +26,8 @@
     "@babel/core": "^7.16.12",
     "@babel/preset-env": "^7.16.11",
     "jest": "^27.4.7"
+  },
+  "dependencies": {
+    "jest-each": "^27.4.6"
   }
 }
